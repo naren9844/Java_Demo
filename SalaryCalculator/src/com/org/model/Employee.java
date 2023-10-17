@@ -1,5 +1,8 @@
 package com.org.model;
 
+/*
+ * This is a pojo class as an example of inheritance and encapsulation
+ */
 public class Employee extends Bonus{
 	
 	private String name;

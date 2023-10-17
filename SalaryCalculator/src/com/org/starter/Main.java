@@ -6,6 +6,10 @@ import com.org.service.SalaryCalculator;
 // Comment lines can be added at the class level and method level 
 // that describe the purpose of the class or methods.
 public class Main {
+	
+	/*
+	 * This is the starting point of the demo project 
+	 */
 
 	public static void main(String[] args) {
 
